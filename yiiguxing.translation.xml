@@ -1,0 +1,26 @@
+<application>
+  <component name="AppStorage">
+    <option name="maxHistorySize" value="10" />
+    <histories>
+      <item value="CAN" />
+      <item value="是否可以预点菜" />
+      <item value="preorder" />
+      <item value="award" />
+      <item value="奖励" />
+      <item value="Description" />
+      <item value="名称" />
+      <item value="phone" />
+      <item value="手机" />
+      <item value="activate" />
+    </histories>
+  </component>
+  <component name="Settings">
+    <option name="translator" value="ai.youdao" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="0f025e050b7ea0bf" />
+        <option name="appKeyConfigured" value="true" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>
