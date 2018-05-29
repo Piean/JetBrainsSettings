@@ -2,16 +2,16 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
-      <item value="无效" />
-      <item value="wuxiao " />
-      <item value="already" />
-      <item value="已经" />
-      <item value="yet" />
-      <item value="CAN" />
-      <item value="是否可以预点菜" />
-      <item value="preorder" />
-      <item value="award" />
-      <item value="奖励" />
+      <item value="手机号码" />
+      <item value="Mobile No" />
+      <item value="authentication" />
+      <item value="短信验证码" />
+      <item value="auth code" />
+      <item value="验证码" />
+      <item value="auth" />
+      <item value="verification" />
+      <item value="Withdraw Code" />
+      <item value="Withdraw" />
     </histories>
   </component>
   <component name="Settings">
