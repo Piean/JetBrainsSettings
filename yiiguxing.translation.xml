@@ -2,16 +2,16 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
-      <item value="手机号码" />
-      <item value="Mobile No" />
-      <item value="authentication" />
-      <item value="短信验证码" />
-      <item value="auth code" />
-      <item value="验证码" />
-      <item value="auth" />
-      <item value="verification" />
-      <item value="Withdraw Code" />
-      <item value="Withdraw" />
+      <item value="分钟" />
+      <item value="valid" />
+      <item value="有效时间" />
+      <item value="Effective" />
+      <item value="有效秒" />
+      <item value="有效" />
+      <item value="过期" />
+      <item value="过期秒数" />
+      <item value="过期分钟数" />
+      <item value="unique" />
     </histories>
   </component>
   <component name="Settings">
