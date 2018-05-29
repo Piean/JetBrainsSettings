@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="无效" />
+      <item value="wuxiao " />
       <item value="already" />
       <item value="已经" />
       <item value="yet" />
@@ -10,8 +12,6 @@
       <item value="preorder" />
       <item value="award" />
       <item value="奖励" />
-      <item value="Description" />
-      <item value="名称" />
     </histories>
   </component>
   <component name="Settings">
