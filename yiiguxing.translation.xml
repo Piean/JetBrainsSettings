@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="already" />
+      <item value="已经" />
+      <item value="yet" />
       <item value="CAN" />
       <item value="是否可以预点菜" />
       <item value="preorder" />
@@ -9,9 +12,6 @@
       <item value="奖励" />
       <item value="Description" />
       <item value="名称" />
-      <item value="phone" />
-      <item value="手机" />
-      <item value="activate" />
     </histories>
   </component>
   <component name="Settings">
