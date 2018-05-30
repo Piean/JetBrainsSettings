@@ -2,16 +2,16 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="register" />
+      <item value="注册" />
+      <item value="Determine" />
+      <item value="判断手机号注册" />
+      <item value="校验" />
+      <item value="用途" />
       <item value="location" />
       <item value="Places" />
       <item value="位数" />
       <item value="digit" />
-      <item value="digits" />
-      <item value="description" />
-      <item value="功能描述" />
-      <item value="desc" />
-      <item value="功能" />
-      <item value="说明" />
     </histories>
   </component>
   <component name="Settings">
