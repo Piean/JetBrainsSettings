@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Korea" />
+      <item value="韩国" />
       <item value="唯一" />
       <item value="唯一编码" />
       <item value="extent" />
@@ -10,8 +12,6 @@
       <item value="渠道" />
       <item value="Region" />
       <item value="地域" />
-      <item value="terrain" />
-      <item value="开放平台" />
     </histories>
   </component>
   <component name="Settings">
