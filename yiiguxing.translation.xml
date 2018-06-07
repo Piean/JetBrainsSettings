@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="版本" />
       <item value="produce" />
       <item value="producer" />
       <item value="生产者" />
@@ -11,7 +12,6 @@
       <item value="计数器" />
       <item value="当前" />
       <item value="Korea" />
-      <item value="韩国" />
     </histories>
   </component>
   <component name="Settings">
