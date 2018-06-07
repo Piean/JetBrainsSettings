@@ -2,16 +2,16 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="商户" />
+      <item value="sogo" />
+      <item value="Vendor" />
+      <item value="tenant" />
+      <item value="Solid" />
+      <item value="merchant" />
+      <item value="实体" />
+      <item value="自增" />
       <item value="版本" />
       <item value="produce" />
-      <item value="producer" />
-      <item value="生产者" />
-      <item value="生产" />
-      <item value="generator" />
-      <item value="生成器" />
-      <item value="计数器" />
-      <item value="当前" />
-      <item value="Korea" />
     </histories>
   </component>
   <component name="Settings">
