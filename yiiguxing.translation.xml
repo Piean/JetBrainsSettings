@@ -2,16 +2,16 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="producer" />
+      <item value="生产者" />
+      <item value="生产" />
+      <item value="generator" />
+      <item value="生成器" />
       <item value="计数器" />
       <item value="当前" />
       <item value="Korea" />
       <item value="韩国" />
       <item value="唯一" />
-      <item value="唯一编码" />
-      <item value="extent" />
-      <item value="长度" />
-      <item value="后缀" />
-      <item value="渠道" />
     </histories>
   </component>
   <component name="Settings">
