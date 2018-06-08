@@ -2,16 +2,16 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="about to run out" />
+      <item value="is about to run out" />
+      <item value="即将" />
+      <item value="即将使用完" />
+      <item value="即将用完" />
       <item value="一个编码" />
       <item value="请配置" />
       <item value="compete" />
       <item value="竞争" />
       <item value="竞争失败" />
-      <item value="发生竞争且失败" />
-      <item value="competition" />
-      <item value="section" />
-      <item value="区段" />
-      <item value="这种东西即将用完" />
     </histories>
   </component>
   <component name="Settings">
