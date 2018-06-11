@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="字母" />
       <item value="系统参数" />
       <item value="about to run out" />
       <item value="is about to run out" />
@@ -11,7 +12,6 @@
       <item value="一个编码" />
       <item value="请配置" />
       <item value="compete" />
-      <item value="竞争" />
     </histories>
   </component>
   <component name="Settings">
