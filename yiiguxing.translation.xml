@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="person" />
       <item value="关闭" />
       <item value="是否关闭" />
       <item value="开关" />
@@ -11,7 +12,6 @@
       <item value="Auslese" />
       <item value="字母" />
       <item value="系统参数" />
-      <item value="about to run out" />
     </histories>
   </component>
   <component name="Settings">
