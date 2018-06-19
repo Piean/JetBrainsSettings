@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Bottom" />
       <item value="both methods have same erasure" />
       <item value="Maximum total connections allowed" />
       <item value="Maximum connections allowed per host" />
@@ -11,7 +12,6 @@
       <item value="请求时间：2018-06-15 13:44:136" />
       <item value="person" />
       <item value="关闭" />
-      <item value="是否关闭" />
     </histories>
   </component>
   <component name="Settings">
