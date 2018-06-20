@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="face for food" />
+      <item value="face to food" />
+      <item value="扫脸取餐" />
       <item value="工具" />
       <item value="Bottom" />
       <item value="both methods have same erasure" />
@@ -9,9 +12,6 @@
       <item value="Maximum connections allowed per host" />
       <item value="established" />
       <item value="measured" />
-      <item value="connection timeout measures in ms, closes a socket if connection * cannot be established within x ms. with a * java.net.SocketTimeoutException: Connection timed out" />
-      <item value="请求时间：2018-06-15 13:44:136" />
-      <item value="person" />
     </histories>
   </component>
   <component name="Settings">
