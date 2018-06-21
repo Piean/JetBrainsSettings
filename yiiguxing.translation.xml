@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="section" />
       <item value="balloon" />
       <item value="face for food" />
       <item value="face to food" />
@@ -11,7 +12,6 @@
       <item value="both methods have same erasure" />
       <item value="Maximum total connections allowed" />
       <item value="Maximum connections allowed per host" />
-      <item value="established" />
     </histories>
   </component>
   <component name="Settings">
