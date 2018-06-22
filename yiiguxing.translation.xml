@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="库" />
+      <item value="library" />
+      <item value="人脸库" />
       <item value="值" />
       <item value="Store" />
       <item value="插入" />
@@ -9,9 +12,6 @@
       <item value="存储" />
       <item value="Storage" />
       <item value="入库" />
-      <item value="entering" />
-      <item value="人脸入库" />
-      <item value="Putaway" />
     </histories>
   </component>
   <component name="Settings">
