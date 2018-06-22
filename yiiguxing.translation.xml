@@ -2,16 +2,16 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
-      <item value="recognition" />
-      <item value="recognite" />
-      <item value="识别" />
-      <item value="perception" />
-      <item value="人脸识别" />
-      <item value="Recognition" />
-      <item value="静态入库" />
-      <item value="section" />
-      <item value="balloon" />
-      <item value="face for food" />
+      <item value="Store" />
+      <item value="插入" />
+      <item value="storage" />
+      <item value="存储" />
+      <item value="Storage" />
+      <item value="入库" />
+      <item value="entering" />
+      <item value="人脸入库" />
+      <item value="Putaway" />
+      <item value="上传入库" />
     </histories>
   </component>
   <component name="Settings">
