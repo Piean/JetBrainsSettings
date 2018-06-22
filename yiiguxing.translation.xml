@@ -2,16 +2,16 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="recognition" />
+      <item value="recognite" />
+      <item value="识别" />
+      <item value="perception" />
+      <item value="人脸识别" />
+      <item value="Recognition" />
+      <item value="静态入库" />
       <item value="section" />
       <item value="balloon" />
       <item value="face for food" />
-      <item value="face to food" />
-      <item value="扫脸取餐" />
-      <item value="工具" />
-      <item value="Bottom" />
-      <item value="both methods have same erasure" />
-      <item value="Maximum total connections allowed" />
-      <item value="Maximum connections allowed per host" />
     </histories>
   </component>
   <component name="Settings">
