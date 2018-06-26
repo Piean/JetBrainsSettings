@@ -2,16 +2,16 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
-      <item value="库" />
-      <item value="library" />
-      <item value="人脸库" />
-      <item value="值" />
-      <item value="Store" />
-      <item value="插入" />
-      <item value="storage" />
-      <item value="存储" />
-      <item value="Storage" />
-      <item value="入库" />
+      <item value="movement" />
+      <item value="运动" />
+      <item value="Sports" />
+      <item value="exercise" />
+      <item value="Motion" />
+      <item value="Recreation" />
+      <item value="休闲娱乐" />
+      <item value="摄影写真" />
+      <item value="汽车服务" />
+      <item value="automotive" />
     </histories>
   </component>
   <component name="Settings">
