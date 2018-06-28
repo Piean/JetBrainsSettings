@@ -2,16 +2,16 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="已售" />
+      <item value="residual" />
+      <item value="剩余" />
+      <item value="Surplus" />
+      <item value="remain" />
+      <item value="总数量" />
+      <item value="剩余份数" />
+      <item value="copies" />
+      <item value="份数" />
       <item value="An authentication error occurred" />
-      <item value="movement" />
-      <item value="运动" />
-      <item value="Sports" />
-      <item value="exercise" />
-      <item value="Motion" />
-      <item value="Recreation" />
-      <item value="休闲娱乐" />
-      <item value="摄影写真" />
-      <item value="汽车服务" />
     </histories>
   </component>
   <component name="Settings">
