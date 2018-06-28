@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="集中" />
       <item value="已售" />
       <item value="residual" />
       <item value="剩余" />
@@ -11,7 +12,6 @@
       <item value="剩余份数" />
       <item value="copies" />
       <item value="份数" />
-      <item value="An authentication error occurred" />
     </histories>
   </component>
   <component name="Settings">
