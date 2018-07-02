@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Stock" />
       <item value="已售" />
       <item value="Sales" />
       <item value="volume" />
@@ -11,7 +12,6 @@
       <item value="Surplus" />
       <item value="remain" />
       <item value="总数量" />
-      <item value="剩余份数" />
     </histories>
   </component>
   <component name="Settings">
