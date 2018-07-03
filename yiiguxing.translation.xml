@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="failed" />
+      <item value="Cast" />
       <item value="member" />
       <item value="hercules" />
       <item value="Stock" />
@@ -10,8 +12,6 @@
       <item value="volume" />
       <item value="集中" />
       <item value="residual" />
-      <item value="剩余" />
-      <item value="Surplus" />
     </histories>
   </component>
   <component name="Settings">
