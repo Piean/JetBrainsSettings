@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="effectively" />
+      <item value="effectively final" />
+      <item value="Variable used in lambda expression should be final or effectively final" />
       <item value="failed" />
       <item value="Cast" />
       <item value="member" />
@@ -9,9 +12,6 @@
       <item value="Stock" />
       <item value="已售" />
       <item value="Sales" />
-      <item value="volume" />
-      <item value="集中" />
-      <item value="residual" />
     </histories>
   </component>
   <component name="Settings">
