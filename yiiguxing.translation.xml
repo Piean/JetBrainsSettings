@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="force" />
+      <item value="force removal" />
       <item value="effectively" />
       <item value="effectively final" />
       <item value="Variable used in lambda expression should be final or effectively final" />
@@ -10,8 +12,6 @@
       <item value="member" />
       <item value="hercules" />
       <item value="Stock" />
-      <item value="已售" />
-      <item value="Sales" />
     </histories>
   </component>
   <component name="Settings">
