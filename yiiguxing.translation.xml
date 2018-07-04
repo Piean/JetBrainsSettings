@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="显示" />
       <item value="enclosing" />
       <item value="Stat" />
       <item value="统计" />
@@ -11,7 +12,6 @@
       <item value="force removal" />
       <item value="effectively" />
       <item value="effectively final" />
-      <item value="Variable used in lambda expression should be final or effectively final" />
     </histories>
   </component>
   <component name="Settings">
