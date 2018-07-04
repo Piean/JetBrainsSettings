@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="zkaddress" />
+      <item value="Facade" />
       <item value="显示" />
       <item value="enclosing" />
       <item value="Stat" />
@@ -10,8 +12,6 @@
       <item value="Constan" />
       <item value="force" />
       <item value="force removal" />
-      <item value="effectively" />
-      <item value="effectively final" />
     </histories>
   </component>
   <component name="Settings">
