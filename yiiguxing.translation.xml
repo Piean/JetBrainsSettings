@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="常量" />
+      <item value="Constan" />
       <item value="force" />
       <item value="force removal" />
       <item value="effectively" />
@@ -10,8 +12,6 @@
       <item value="failed" />
       <item value="Cast" />
       <item value="member" />
-      <item value="hercules" />
-      <item value="Stock" />
     </histories>
   </component>
   <component name="Settings">
