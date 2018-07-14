@@ -2,16 +2,16 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="valid" />
+      <item value="有效" />
+      <item value="有效坐标" />
+      <item value="正确的坐标" />
       <item value="空格" />
       <item value="Filter" />
       <item value="筛选" />
       <item value="有趣" />
       <item value="register" />
       <item value="注册" />
-      <item value="执行" />
-      <item value="zkaddress" />
-      <item value="Facade" />
-      <item value="显示" />
     </histories>
   </component>
   <component name="Settings">
