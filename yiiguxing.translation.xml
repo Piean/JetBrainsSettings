@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="商汤的许可文件不存在" />
+      <item value="商汤的许可文件在这个目录找不到" />
       <item value="Separator" />
       <item value="path Separator" />
       <item value="pathSeparator" />
@@ -10,8 +12,6 @@
       <item value="高铁" />
       <item value="consumption pe capita" />
       <item value="thrift" />
-      <item value="layers" />
-      <item value="inbound" />
     </histories>
   </component>
   <component name="Settings">
