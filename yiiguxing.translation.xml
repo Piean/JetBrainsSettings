@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="铁路" />
+      <item value="高铁" />
       <item value="consumption pe capita" />
       <item value="thrift" />
       <item value="layers" />
@@ -10,8 +12,6 @@
       <item value="有效" />
       <item value="有效坐标" />
       <item value="正确的坐标" />
-      <item value="空格" />
-      <item value="Filter" />
     </histories>
   </component>
   <component name="Settings">
