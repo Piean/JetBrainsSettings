@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="layers" />
       <item value="inbound" />
       <item value="valid" />
       <item value="有效" />
@@ -11,7 +12,6 @@
       <item value="Filter" />
       <item value="筛选" />
       <item value="有趣" />
-      <item value="register" />
     </histories>
   </component>
   <component name="Settings">
