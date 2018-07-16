@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Separator" />
+      <item value="path Separator" />
+      <item value="pathSeparator" />
       <item value="文件路径" />
       <item value="铁路" />
       <item value="高铁" />
@@ -9,9 +12,6 @@
       <item value="thrift" />
       <item value="layers" />
       <item value="inbound" />
-      <item value="valid" />
-      <item value="有效" />
-      <item value="有效坐标" />
     </histories>
   </component>
   <component name="Settings">
