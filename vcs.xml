@@ -142,6 +142,10 @@
           <option name="url" value="http://git.2dfire-inc.com/mogu/dfire-btrace.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.2dfire-inc.com/platform/magiceye.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Project" />
