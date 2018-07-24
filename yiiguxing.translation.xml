@@ -2,16 +2,16 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="逆反" />
+      <item value="相反" />
+      <item value="intanl" />
+      <item value="intranl" />
+      <item value="in" />
       <item value="准备" />
       <item value="指点" />
       <item value="pending" />
       <item value="options specifying how the file is opened" />
       <item value="Finchley" />
-      <item value="u'msg': u'pre task is executing ,so this commit will be ignor', u'success': False" />
-      <item value="商汤的许可文件不存在" />
-      <item value="商汤的许可文件在这个目录找不到" />
-      <item value="Separator" />
-      <item value="path Separator" />
     </histories>
   </component>
   <component name="Settings">
