@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="terminate" />
       <item value="堂食" />
       <item value="DINNER" />
       <item value="Dapper" />
@@ -11,7 +12,6 @@
       <item value="相反" />
       <item value="intanl" />
       <item value="intranl" />
-      <item value="in" />
     </histories>
   </component>
   <component name="Settings">
