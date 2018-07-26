@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Dapper" />
       <item value="Standar" />
       <item value="refactor" />
       <item value="逆反" />
@@ -11,7 +12,6 @@
       <item value="in" />
       <item value="准备" />
       <item value="指点" />
-      <item value="pending" />
     </histories>
   </component>
   <component name="Settings">
