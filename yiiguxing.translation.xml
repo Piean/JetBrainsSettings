@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="locate" />
+      <item value="loacte" />
       <item value="fool" />
       <item value="terminate" />
       <item value="堂食" />
@@ -10,8 +12,6 @@
       <item value="Standar" />
       <item value="refactor" />
       <item value="逆反" />
-      <item value="相反" />
-      <item value="intanl" />
     </histories>
   </component>
   <component name="Settings">
