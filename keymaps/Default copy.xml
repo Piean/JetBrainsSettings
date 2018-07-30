@@ -4,4 +4,7 @@
   </action>
   <action id="IntroduceField" />
   <action id="IntroduceProperty" />
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="ctrl alt f8" />
+  </action>
 </keymap>
