@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="btrace - libs" />
       <item value="Enumeration" />
       <item value="an immutable list containing only the specified object." />
       <item value="the sole object to be stored in the returned list." />
@@ -11,7 +12,6 @@
       <item value="locate" />
       <item value="loacte" />
       <item value="fool" />
-      <item value="terminate" />
     </histories>
   </component>
   <component name="Settings">
