@@ -2,19 +2,11 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
-      <item value="btrace - libs" />
-      <item value="Enumeration" />
-      <item value="an immutable list containing only the specified object." />
-      <item value="the sole object to be stored in the returned list." />
-      <item value="specified object" />
-      <item value="Singleton List" />
-      <item value="samples" />
-      <item value="locate" />
-      <item value="loacte" />
-      <item value="fool" />
+      <item value="名字不存在" />
     </histories>
   </component>
   <component name="Settings">
+    <option name="ignoreRegExp" value="" />
     <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
