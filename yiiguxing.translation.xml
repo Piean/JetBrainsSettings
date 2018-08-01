@@ -2,11 +2,16 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="order" />
+      <item value="次数" />
+      <item value="trouble" />
+      <item value="foul" />
+      <item value="time" />
+      <item value="degree" />
+      <item value="轮询频率" />
       <item value="COUNTER" />
+      <item value="默认" />
       <item value="store State" />
-      <item value="人脸入库失败，原因是" />
-      <item value="face store failed" />
-      <item value="名字不存在" />
     </histories>
   </component>
   <component name="Settings">
