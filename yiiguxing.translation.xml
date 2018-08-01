@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="人脸入库失败，原因是" />
+      <item value="face store failed" />
       <item value="名字不存在" />
     </histories>
   </component>
