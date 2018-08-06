@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="业务" />
       <item value="order" />
       <item value="次数" />
       <item value="trouble" />
@@ -11,7 +12,6 @@
       <item value="轮询频率" />
       <item value="COUNTER" />
       <item value="默认" />
-      <item value="store State" />
     </histories>
   </component>
   <component name="Settings">
