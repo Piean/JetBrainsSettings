@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="No enclosing instance of type 'Sort' is in scope" />
+      <item value="No enclosing instance of type 'com.dfire.soa.shop.query.base.BaseQuery.Sort' is in scope" />
       <item value="附加" />
       <item value="启用" />
       <item value="业务" />
@@ -10,8 +12,6 @@
       <item value="trouble" />
       <item value="foul" />
       <item value="time" />
-      <item value="degree" />
-      <item value="轮询频率" />
     </histories>
   </component>
   <component name="Settings">
