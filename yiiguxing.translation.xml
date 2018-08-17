@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Love Ya Like A Sister" />
       <item value="下线" />
       <item value="第三方" />
       <item value="No enclosing instance of type 'com.dfire.soa.shop.query.base.BaseQuery.Sort' is in scope" />
@@ -11,7 +12,6 @@
       <item value="无效id" />
       <item value="No enclosing instance of type 'Sort' is in scope" />
       <item value="启用" />
-      <item value="业务" />
     </histories>
   </component>
   <component name="Settings">
