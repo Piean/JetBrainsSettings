@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="correlation" />
+      <item value="关联关系" />
+      <item value="incidence" />
       <item value="A virtual buffer which shows multiple buffers as a single merged buffer. It is recommended to use" />
       <item value="destiny" />
       <item value="persue" />
@@ -9,9 +12,6 @@
       <item value="下线" />
       <item value="第三方" />
       <item value="No enclosing instance of type 'com.dfire.soa.shop.query.base.BaseQuery.Sort' is in scope" />
-      <item value="附加" />
-      <item value="立方停车" />
-      <item value="Invalid" />
     </histories>
   </component>
   <component name="Settings">
