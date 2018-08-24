@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Checks that the specified object reference is not {@code null}. This method is designed primarily for doing parameter validation in methods and constructors, as demonstrated below:" />
+      <item value="and constructors, as demonstrated below:" />
+      <item value="blockquote" />
       <item value="correlation" />
       <item value="关联关系" />
       <item value="incidence" />
@@ -9,9 +12,6 @@
       <item value="destiny" />
       <item value="persue" />
       <item value="Love Ya Like A Sister" />
-      <item value="下线" />
-      <item value="第三方" />
-      <item value="No enclosing instance of type 'com.dfire.soa.shop.query.base.BaseQuery.Sort' is in scope" />
     </histories>
   </component>
   <component name="Settings">
