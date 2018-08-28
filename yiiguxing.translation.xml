@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="section" />
       <item value="控制" />
       <item value="独有" />
       <item value="独立" />
@@ -11,7 +12,6 @@
       <item value="correlation" />
       <item value="关联关系" />
       <item value="incidence" />
-      <item value="A virtual buffer which shows multiple buffers as a single merged buffer. It is recommended to use" />
     </histories>
   </component>
   <component name="Settings">
