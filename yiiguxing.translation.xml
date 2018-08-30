@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="for example, you could run it with following argument:" />
+      <item value="This application could be used to test the java agent." />
       <item value="Not found exported service" />
       <item value="特殊" />
       <item value="Duration" />
@@ -10,8 +12,6 @@
       <item value="独有" />
       <item value="独立" />
       <item value="Checks that the specified object reference is not {@code null}. This method is designed primarily for doing parameter validation in methods and constructors, as demonstrated below:" />
-      <item value="and constructors, as demonstrated below:" />
-      <item value="blockquote" />
     </histories>
   </component>
   <component name="Settings">
