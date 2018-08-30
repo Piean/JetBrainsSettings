@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="特殊" />
       <item value="Duration" />
       <item value="section" />
       <item value="控制" />
@@ -11,7 +12,6 @@
       <item value="and constructors, as demonstrated below:" />
       <item value="blockquote" />
       <item value="correlation" />
-      <item value="关联关系" />
     </histories>
   </component>
   <component name="Settings">
