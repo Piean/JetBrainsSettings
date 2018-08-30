@@ -2,16 +2,16 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Configuration" />
+      <item value="配置" />
+      <item value="超时时间" />
+      <item value="min Evictable Idle Time Millis" />
+      <item value="time Between Eviction Runs Millis" />
       <item value="for example, you could run it with following argument:" />
       <item value="This application could be used to test the java agent." />
       <item value="Not found exported service" />
       <item value="特殊" />
       <item value="Duration" />
-      <item value="section" />
-      <item value="控制" />
-      <item value="独有" />
-      <item value="独立" />
-      <item value="Checks that the specified object reference is not {@code null}. This method is designed primarily for doing parameter validation in methods and constructors, as demonstrated below:" />
     </histories>
   </component>
   <component name="Settings">
