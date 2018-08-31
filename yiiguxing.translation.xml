@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="CREATE BY Supply Chain" />
+      <item value="供应链" />
       <item value="供应商" />
       <item value="Configuration" />
       <item value="配置" />
@@ -10,12 +12,11 @@
       <item value="time Between Eviction Runs Millis" />
       <item value="for example, you could run it with following argument:" />
       <item value="This application could be used to test the java agent." />
-      <item value="Not found exported service" />
-      <item value="特殊" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="4" />
       </map>
     </option>
   </component>
