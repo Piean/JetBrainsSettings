@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="调整" />
       <item value="正式" />
       <item value="商场" />
       <item value="CREATE BY Supply Chain" />
@@ -11,12 +12,11 @@
       <item value="配置" />
       <item value="超时时间" />
       <item value="min Evictable Idle Time Millis" />
-      <item value="time Between Eviction Runs Millis" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="ENGLISH" value="7" />
       </map>
     </option>
   </component>
