@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="guarded" />
+      <item value="guarded by" />
+      <item value="guardedby" />
       <item value="Monody" />
       <item value="Native" />
       <item value="Sparse file. When used with the CREATE_NEW option then this option provides a hint that the new file will be sparse. The option is ignored when the file system does not support the creation of sparse files." />
@@ -9,9 +12,6 @@
       <item value="Create a new file, failing if the file already exists. The check for the existence of the file and the creation of the file if it does not exist is atomic with respect to other file system operations." />
       <item value="Create a new file if it does not exist. This option is ignored if the CREATE_NEW option is also set. The check for the existence of the file and the creation of the file if it does not exist is atomic with respect to other file system operations." />
       <item value="inspection" />
-      <item value="noinspection" />
-      <item value="noinspection deprecation" />
-      <item value="调整" />
     </histories>
     <option name="languageScores">
       <map>
