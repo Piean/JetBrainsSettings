@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Monody" />
       <item value="Native" />
       <item value="Sparse file. When used with the CREATE_NEW option then this option provides a hint that the new file will be sparse. The option is ignored when the file system does not support the creation of sparse files." />
       <item value="If the file already exists and it is opened for WRITE access, then its length is truncated to 0. This option is ignored if the file is opened only for READ access." />
@@ -11,7 +12,6 @@
       <item value="noinspection" />
       <item value="noinspection deprecation" />
       <item value="调整" />
-      <item value="正式" />
     </histories>
     <option name="languageScores">
       <map>
