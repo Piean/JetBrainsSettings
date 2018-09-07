@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="compatible" />
       <item value="去除" />
       <item value="boilerplate " />
       <item value="drastically reduce the amount of boilerplate code" />
@@ -11,12 +12,11 @@
       <item value="Monody" />
       <item value="Native" />
       <item value="Sparse file. When used with the CREATE_NEW option then this option provides a hint that the new file will be sparse. The option is ignored when the file system does not support the creation of sparse files." />
-      <item value="If the file already exists and it is opened for WRITE access, then its length is truncated to 0. This option is ignored if the file is opened only for READ access." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="13" />
       </map>
     </option>
   </component>
