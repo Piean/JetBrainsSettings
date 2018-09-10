@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="减" />
       <item value="Returns the value of the first argument raised to the power of the * second argument" />
       <item value="consumption per capita" />
       <item value="order_count" />
@@ -11,12 +12,11 @@
       <item value="compatible" />
       <item value="去除" />
       <item value="boilerplate " />
-      <item value="drastically reduce the amount of boilerplate code" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="15" />
+        <entry key="ENGLISH" value="16" />
       </map>
     </option>
   </component>
