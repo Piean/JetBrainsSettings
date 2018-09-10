@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Returns the value of the first argument raised to the power of the * second argument" />
       <item value="consumption per capita" />
       <item value="order_count" />
       <item value="scan amount" />
@@ -11,12 +12,11 @@
       <item value="去除" />
       <item value="boilerplate " />
       <item value="drastically reduce the amount of boilerplate code" />
-      <item value="guarded" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="15" />
       </map>
     </option>
   </component>
