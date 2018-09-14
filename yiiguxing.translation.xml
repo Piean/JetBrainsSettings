@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="RECIPE" />
       <item value="也许" />
       <item value="声明" />
       <item value="Meal" />
@@ -11,12 +12,11 @@
       <item value="describe" />
       <item value="位置" />
       <item value="site" />
-      <item value="func" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="26" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="27" />
       </map>
     </option>
   </component>
