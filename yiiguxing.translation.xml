@@ -2,21 +2,21 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="运行时报异常" />
+      <item value="运行异常" />
+      <item value="已经被删除" />
+      <item value="建议" />
+      <item value="advice" />
       <item value="平台" />
       <item value="terrace" />
       <item value="platform" />
       <item value="overloaded" />
       <item value="RECIPE" />
-      <item value="drop table if exists" />
-      <item value="也许" />
-      <item value="声明" />
-      <item value="Meal" />
-      <item value="Pick up Meal" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="34" />
+        <entry key="ENGLISH" value="38" />
       </map>
     </option>
   </component>
