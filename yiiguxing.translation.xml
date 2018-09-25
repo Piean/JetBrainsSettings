@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="失败" />
       <item value="厨房" />
       <item value="kds" />
       <item value="消费" />
@@ -11,12 +12,11 @@
       <item value="运行时报异常" />
       <item value="运行异常" />
       <item value="已经被删除" />
-      <item value="建议" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="20" />
-        <entry key="ENGLISH" value="43" />
+        <entry key="ENGLISH" value="44" />
       </map>
     </option>
   </component>
