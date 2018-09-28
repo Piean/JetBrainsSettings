@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Using a password on the command line interface can be insecure" />
       <item value="watch the pacific" />
       <item value="mall" />
       <item value="cue" />
@@ -11,7 +12,6 @@
       <item value="parallel" />
       <item value="使用电子菜谱" />
       <item value="菜谱" />
-      <item value="Recipe" />
     </histories>
     <option name="languageScores">
       <map>
