@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="mall" />
       <item value="cue" />
       <item value=" PARTIAL ALIVE" />
       <item value="inventory" />
@@ -11,7 +12,6 @@
       <item value="菜谱" />
       <item value="Recipe" />
       <item value="失败" />
-      <item value="厨房" />
     </histories>
     <option name="languageScores">
       <map>
