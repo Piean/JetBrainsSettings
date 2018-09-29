@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Bottom" />
       <item value="Inferred annotations available. Full signature" />
       <item value="pure " />
       <item value="compete" />
@@ -11,12 +12,11 @@
       <item value="cue" />
       <item value=" PARTIAL ALIVE" />
       <item value="inventory" />
-      <item value="域名" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="48" />
+        <entry key="CHINESE" value="22" />
+        <entry key="ENGLISH" value="49" />
       </map>
     </option>
   </component>
