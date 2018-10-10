@@ -2,21 +2,21 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="partition" />
+      <item value="分隔" />
+      <item value="separation" />
+      <item value="数字逗号拼接" />
+      <item value="逗号" />
+      <item value="数字逗号分隔" />
       <item value="规则" />
       <item value="guize" />
       <item value="role" />
       <item value="MAIL" />
-      <item value="confine" />
-      <item value="eligible" />
-      <item value="coincide" />
-      <item value="符合" />
-      <item value="accord" />
-      <item value="eligibe" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="25" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="ENGLISH" value="66" />
       </map>
     </option>
   </component>
