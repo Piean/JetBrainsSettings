@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="discard connection" />
       <item value="october" />
       <item value="接收到消息" />
       <item value="接收" />
@@ -11,7 +12,6 @@
       <item value="The IDE is running low on memory and this might affect performance. Please consider increasing available heap." />
       <item value="partition" />
       <item value="分隔" />
-      <item value="separation" />
     </histories>
     <option name="languageScores">
       <map>
