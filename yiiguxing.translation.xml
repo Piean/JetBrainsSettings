@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="This inspection points out unresolved references inside javadoc" />
       <item value="主体" />
       <item value="MACAU" />
       <item value="台湾通行证" />
@@ -11,7 +12,6 @@
       <item value="least" />
       <item value="最小" />
       <item value="最大" />
-      <item value="unsupported" />
     </histories>
     <option name="languageScores">
       <map>
