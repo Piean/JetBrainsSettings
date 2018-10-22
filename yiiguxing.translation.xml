@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="lapse" />
       <item value="detect" />
       <item value="Constants" />
       <item value="match case" />
@@ -11,7 +12,6 @@
       <item value="是否可以使用云收银" />
       <item value="This inspection points out unresolved references inside javadoc" />
       <item value="主体" />
-      <item value="MACAU" />
     </histories>
     <option name="languageScores">
       <map>
