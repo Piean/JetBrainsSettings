@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="detect" />
+      <item value="Constants" />
       <item value="match case" />
       <item value="连接" />
       <item value="allow insert" />
@@ -10,13 +12,12 @@
       <item value="This inspection points out unresolved references inside javadoc" />
       <item value="主体" />
       <item value="MACAU" />
-      <item value="台湾通行证" />
-      <item value="港澳通行证" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="32" />
+        <entry key="CHINESE" value="33" />
         <entry key="ENGLISH" value="79" />
+        <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
