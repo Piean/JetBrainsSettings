@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="编码" />
       <item value="lapse" />
       <item value="detect" />
       <item value="Constants" />
@@ -11,12 +12,11 @@
       <item value="allowinsert" />
       <item value="是否可以使用云收银" />
       <item value="This inspection points out unresolved references inside javadoc" />
-      <item value="主体" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="79" />
+        <entry key="ENGLISH" value="80" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
