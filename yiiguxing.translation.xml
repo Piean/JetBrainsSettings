@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Script" />
       <item value="floating-point value that is greater than or equal to" />
       <item value="the argument and is equal to a mathematical integer." />
       <item value="cosmic" />
@@ -11,12 +12,11 @@
       <item value="detect" />
       <item value="Constants" />
       <item value="match case" />
-      <item value="连接" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="83" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="84" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
