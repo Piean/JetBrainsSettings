@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="mismatched" />
       <item value="经纬度、" />
       <item value="坐标" />
       <item value="维度" />
@@ -11,7 +12,6 @@
       <item value="the argument and is equal to a mathematical integer." />
       <item value="cosmic" />
       <item value="宇宙" />
-      <item value="编码" />
     </histories>
     <option name="languageScores">
       <map>
