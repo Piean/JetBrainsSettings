@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Manual" />
+      <item value="exceed" />
       <item value="Container Creating" />
       <item value="Utility classes, which are collections of static members, are not meant to be instantiated. Even abstract utility classes, which can be extended, should not have public constructors.  Java adds an implicit public constructor to every class which does not define at least one explicitly. Hence, at least one non-public constructor should be defined." />
       <item value="Noncompliant" />
@@ -10,8 +12,6 @@
       <item value="坐标" />
       <item value="维度" />
       <item value="毫秒" />
-      <item value="Script" />
-      <item value="floating-point value that is greater than or equal to" />
     </histories>
     <option name="languageScores">
       <map>
