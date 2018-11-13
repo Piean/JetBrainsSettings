@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Refactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed" />
       <item value="failed" />
       <item value="relation" />
       <item value="Manual" />
@@ -11,7 +12,6 @@
       <item value="Noncompliant" />
       <item value="mismatched" />
       <item value="经纬度、" />
-      <item value="坐标" />
     </histories>
     <option name="languageScores">
       <map>
