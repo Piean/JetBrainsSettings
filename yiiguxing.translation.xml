@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Maintainer" />
       <item value="Refactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed" />
       <item value="failed" />
       <item value="relation" />
@@ -11,7 +12,6 @@
       <item value="Utility classes, which are collections of static members, are not meant to be instantiated. Even abstract utility classes, which can be extended, should not have public constructors.  Java adds an implicit public constructor to every class which does not define at least one explicitly. Hence, at least one non-public constructor should be defined." />
       <item value="Noncompliant" />
       <item value="mismatched" />
-      <item value="经纬度、" />
     </histories>
     <option name="languageScores">
       <map>
