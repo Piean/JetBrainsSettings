@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="logistics" />
       <item value="Appointed" />
       <item value="execution" />
       <item value="for generating executable jars" />
@@ -11,7 +12,6 @@
       <item value="relation" />
       <item value="Manual" />
       <item value="exceed" />
-      <item value="Container Creating" />
     </histories>
     <option name="languageScores">
       <map>
