@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="nihility" />
+      <item value="无" />
+      <item value="无、" />
       <item value="property" />
       <item value="属性" />
       <item value="两点间距离" />
@@ -9,13 +12,10 @@
       <item value="logistics" />
       <item value="Appointed" />
       <item value="execution" />
-      <item value="for generating executable jars" />
-      <item value="Maintainer" />
-      <item value="Refactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
+        <entry key="CHINESE" value="40" />
         <entry key="ENGLISH" value="89" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
@@ -24,6 +24,7 @@
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
+    <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="0f025e050b7ea0bf" />
