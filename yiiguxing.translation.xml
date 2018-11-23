@@ -2,9 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="dist" />
       <item value="实例化" />
       <item value="Normal" />
-      <item value="dist" />
       <item value="Delivery" />
       <item value="General" />
       <item value="通用" />
