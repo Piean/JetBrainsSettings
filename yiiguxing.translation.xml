@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="位置" />
       <item value="连接字符" />
       <item value="first" />
       <item value="second" />
@@ -11,12 +12,11 @@
       <item value="comma" />
       <item value="逗号分隔" />
       <item value="Comma" />
-      <item value="concat" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="57" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="ENGLISH" value="120" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
