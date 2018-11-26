@@ -2,21 +2,21 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="源" />
+      <item value="transform" />
+      <item value="转换" />
+      <item value="Converter" />
+      <item value="convert" />
       <item value="顶层" />
       <item value="最上层" />
       <item value="CAPITA" />
       <item value="CONSUMPTION" />
       <item value="CONSUMPTION CAPITA" />
-      <item value="capita" />
-      <item value="CONSUMPTION PER CAPITA" />
-      <item value="FIELD country id" />
-      <item value="dist" />
-      <item value="实例化" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="57" />
-        <entry key="ENGLISH" value="110" />
+        <entry key="ENGLISH" value="114" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
