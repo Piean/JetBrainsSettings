@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="无效" />
       <item value="转换" />
       <item value="transformer" />
       <item value="transducer" />
@@ -11,12 +12,11 @@
       <item value="位置" />
       <item value="连接字符" />
       <item value="first" />
-      <item value="second" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="57" />
-        <entry key="ENGLISH" value="123" />
+        <entry key="ENGLISH" value="124" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
