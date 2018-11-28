@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="注释" />
       <item value="MERCHANT" />
       <item value="converter" />
       <item value="solr" />
@@ -11,12 +12,11 @@
       <item value="transducer" />
       <item value="cooperate" />
       <item value="super" />
-      <item value="supper" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="127" />
+        <entry key="ENGLISH" value="128" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
