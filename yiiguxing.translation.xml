@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="IS SUPPORT UNIONPAY QUICK PASS" />
+      <item value="Unionpay " />
+      <item value="云闪付" />
       <item value="Koji" />
       <item value="小二" />
       <item value="kiss" />
@@ -9,14 +12,11 @@
       <item value="instance" />
       <item value="注释" />
       <item value="MERCHANT" />
-      <item value="converter" />
-      <item value="solr" />
-      <item value="无效" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="132" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="134" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
