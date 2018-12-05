@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="point" />
+      <item value="节点" />
+      <item value="position" />
       <item value="logistic" />
       <item value="logistics" />
       <item value="trial Shop" />
@@ -9,14 +12,11 @@
       <item value="NEARBY" />
       <item value="NERBY" />
       <item value="位" />
-      <item value="bitwise" />
-      <item value="IS SUPPORT UNIONPAY QUICK PASS" />
-      <item value="Unionpay " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="68" />
-        <entry key="ENGLISH" value="139" />
+        <entry key="CHINESE" value="69" />
+        <entry key="ENGLISH" value="141" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
@@ -24,6 +24,7 @@
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
+    <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="0f025e050b7ea0bf" />
