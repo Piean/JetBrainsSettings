@@ -2,21 +2,21 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="joiner" />
+      <item value="连接" />
+      <item value="Connector" />
+      <item value="连接符" />
+      <item value="concat" />
+      <item value="cat" />
+      <item value="strcat" />
+      <item value="连接字符" />
       <item value="combine" />
       <item value="合并" />
-      <item value="倒置" />
-      <item value="point" />
-      <item value="节点" />
-      <item value="position" />
-      <item value="logistic" />
-      <item value="logistics" />
-      <item value="trial Shop" />
-      <item value="DISPLAY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="69" />
-        <entry key="ENGLISH" value="143" />
+        <entry key="CHINESE" value="73" />
+        <entry key="ENGLISH" value="149" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
