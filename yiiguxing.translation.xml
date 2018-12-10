@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="让他比你好" />
       <item value="tailand" />
       <item value="joiner" />
       <item value="连接" />
@@ -11,12 +12,11 @@
       <item value="cat" />
       <item value="strcat" />
       <item value="连接字符" />
-      <item value="combine" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="73" />
-        <entry key="ENGLISH" value="149" />
+        <entry key="ENGLISH" value="150" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
