@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="idea @link This inspection points out unresolved references inside javadoc" />
       <item value="让他比你好" />
       <item value="tailand" />
       <item value="joiner" />
@@ -11,7 +12,6 @@
       <item value="concat" />
       <item value="cat" />
       <item value="strcat" />
-      <item value="连接字符" />
     </histories>
     <option name="languageScores">
       <map>
