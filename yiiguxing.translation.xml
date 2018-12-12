@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="prepare Builder" />
       <item value="DOUBLE" />
       <item value="COMMA INDEX 1_TO DOUBLE" />
       <item value="分离数据" />
@@ -11,12 +12,11 @@
       <item value="服务商" />
       <item value="对接" />
       <item value="idea @link This inspection points out unresolved references inside javadoc" />
-      <item value="让他比你好" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="156" />
+        <entry key="CHINESE" value="76" />
+        <entry key="ENGLISH" value="157" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
