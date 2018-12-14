@@ -2,21 +2,21 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="multi" />
+      <item value="包含" />
+      <item value="baohan" />
+      <item value="相等" />
+      <item value="EQUSES" />
+      <item value="MUST EQUSES" />
+      <item value="必须" />
       <item value="BEIJING" />
       <item value="Gwt" />
       <item value="Gwt Compatible" />
-      <item value="prepare Builder" />
-      <item value="DOUBLE" />
-      <item value="COMMA INDEX 1_TO DOUBLE" />
-      <item value="分离数据" />
-      <item value="split" />
-      <item value="之前" />
-      <item value="之后" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="79" />
-        <entry key="ENGLISH" value="160" />
+        <entry key="CHINESE" value="81" />
+        <entry key="ENGLISH" value="165" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
