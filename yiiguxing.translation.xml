@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="expect" />
       <item value="BITWISE" />
       <item value="国外" />
       <item value="multi" />
@@ -11,7 +12,6 @@
       <item value="EQUSES" />
       <item value="MUST EQUSES" />
       <item value="必须" />
-      <item value="BEIJING" />
     </histories>
     <option name="languageScores">
       <map>
