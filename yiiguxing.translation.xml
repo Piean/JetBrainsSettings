@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Bitwise" />
       <item value="implement" />
       <item value="separator" />
       <item value="field" />
@@ -11,12 +12,11 @@
       <item value="国外" />
       <item value="multi" />
       <item value="包含" />
-      <item value="baohan" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="170" />
+        <entry key="CHINESE" value="86" />
+        <entry key="ENGLISH" value="171" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
