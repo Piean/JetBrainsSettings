@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="INSERT INTO func_state ( entity_id, state_bit, op_time, create_time, last_ver, is_valid ) VALUES ( ?, IF(0, POW(2,3), 0), UNIX_TIMESTAMP(NOW(3))*1000, UNIX_TIMESTAMP(NOW(3))*1000, 0, 1 ) ON DUPLICATE KEY UPDATE state_bit = IF(0 = (state_bit &gt;&gt; 3) &amp; 1, IF(0, state_bit | (1 &lt;&lt; 3), state_bit &amp; ~(1 &lt;&lt; 3))), op_time = IF(0 = (state_bit &gt;&gt; 3) &amp; 1, op_time, UNIX_TIMESTAMP(NOW(3))*1000), last_ver = IF(0 = (state_bit &gt;&gt; 3) &amp; 1, last_ver, last_ver + 1)" />
       <item value="model" />
       <item value="Isolation Level" />
       <item value="Calm down" />
@@ -11,12 +12,11 @@
       <item value="暂停使用" />
       <item value="lay up" />
       <item value="Bitwise" />
-      <item value="implement" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="87" />
-        <entry key="ENGLISH" value="175" />
+        <entry key="CHINESE" value="88" />
+        <entry key="ENGLISH" value="176" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
