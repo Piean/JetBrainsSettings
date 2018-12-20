@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="批量查询缓存" />
       <item value="有效更新删缓存" />
       <item value="有效更新" />
       <item value="有效更新时删缓存" />
@@ -11,12 +12,11 @@
       <item value="Isolation Level" />
       <item value="Calm down" />
       <item value="无效的数据初始化大小" />
-      <item value="suspend" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="88" />
-        <entry key="ENGLISH" value="177" />
+        <entry key="ENGLISH" value="178" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
