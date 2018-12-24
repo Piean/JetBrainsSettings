@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="中餐" />
       <item value="middle" />
       <item value="中台" />
       <item value="China" />
@@ -11,12 +12,11 @@
       <item value="build" />
       <item value="execute" />
       <item value="excute" />
-      <item value="批量查询缓存" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="90" />
-        <entry key="ENGLISH" value="182" />
+        <entry key="ENGLISH" value="183" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
