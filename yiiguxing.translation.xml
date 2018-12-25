@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Voucher" />
+      <item value="代金券" />
+      <item value="Post Construct" />
       <item value="中餐" />
       <item value="middle" />
       <item value="中台" />
@@ -9,16 +12,13 @@
       <item value="商户中台" />
       <item value="Thermal sensor" />
       <item value="Incompatible parameter types in lambda expression" />
-      <item value="build" />
-      <item value="execute" />
-      <item value="excute" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="90" />
-        <entry key="ENGLISH" value="183" />
+        <entry key="CHINESE" value="93" />
+        <entry key="ENGLISH" value="185" />
         <entry key="FRENCH" value="1" />
-        <entry key="PORTUGUESE" value="1" />
+        <entry key="PORTUGUESE" value="3" />
       </map>
     </option>
   </component>
