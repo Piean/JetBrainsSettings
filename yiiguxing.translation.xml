@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Unionpay" />
       <item value="multiply" />
       <item value="乘" />
       <item value="加减乘除" />
@@ -11,12 +12,11 @@
       <item value="中餐" />
       <item value="middle" />
       <item value="中台" />
-      <item value="China" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="93" />
-        <entry key="ENGLISH" value="186" />
+        <entry key="CHINESE" value="94" />
+        <entry key="ENGLISH" value="187" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="3" />
       </map>
