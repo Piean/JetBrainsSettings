@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="我还是看中文书籍" />
       <item value="列表包含重复数据" />
       <item value="Unionpay" />
       <item value="multiply" />
@@ -11,12 +12,11 @@
       <item value="代金券" />
       <item value="Post Construct" />
       <item value="中餐" />
-      <item value="middle" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="94" />
-        <entry key="ENGLISH" value="188" />
+        <entry key="ENGLISH" value="189" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="3" />
       </map>
