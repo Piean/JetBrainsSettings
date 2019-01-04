@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="segment" />
       <item value="or {@code null} if there was no mapping for the key" />
       <item value="the previous value associated with the specified key" />
       <item value="exploded" />
@@ -11,7 +12,6 @@
       <item value="任务" />
       <item value="finish" />
       <item value="一次" />
-      <item value="prevent" />
     </histories>
     <option name="languageScores">
       <map>
