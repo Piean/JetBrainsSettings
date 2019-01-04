@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="接收到消息" />
       <item value="task" />
       <item value="任务" />
       <item value="finish" />
@@ -11,12 +12,11 @@
       <item value="防止发送两条消息" />
       <item value="两条消息" />
       <item value="convert" />
-      <item value="我还是看中文书籍" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="96" />
-        <entry key="ENGLISH" value="194" />
+        <entry key="ENGLISH" value="195" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="3" />
       </map>
