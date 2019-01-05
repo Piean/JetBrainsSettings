@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="abbreviation" />
       <item value="spread" />
       <item value="segment" />
       <item value="or {@code null} if there was no mapping for the key" />
@@ -11,7 +12,6 @@
       <item value="接收到消息" />
       <item value="task" />
       <item value="任务" />
-      <item value="finish" />
     </histories>
     <option name="languageScores">
       <map>
