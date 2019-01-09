@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="i pick you" />
+      <item value="the pink man" />
       <item value="Issue" />
       <item value="promotions" />
       <item value="source" />
@@ -10,8 +12,6 @@
       <item value="The ASF's &quot;Did You Know?&quot; series showcases interesting ways that Apache projects are used. Can you share any high-profile examples or statistics on how Apache innovations help others? (if a particular use case is confidential, please state so)." />
       <item value="最好的开源组织之一" />
       <item value="最好的开源组织直译4" />
-      <item value="contribute" />
-      <item value="Which Apache projects do you use" />
     </histories>
     <option name="languageScores">
       <map>
