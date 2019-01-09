@@ -2,21 +2,21 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
-      <item value="语句" />
-      <item value="Finished" />
-      <item value="abbreviation" />
-      <item value="spread" />
-      <item value="segment" />
-      <item value="or {@code null} if there was no mapping for the key" />
-      <item value="the previous value associated with the specified key" />
-      <item value="exploded" />
-      <item value="explod" />
-      <item value="接收到消息" />
+      <item value="Issue" />
+      <item value="promotions" />
+      <item value="source" />
+      <item value="The Apache Way relies on open communications: your feedback is very important to us. What would you like to share with the ASF and/or Apache community-at large? (if confidential, please mark as such)" />
+      <item value="sorry" />
+      <item value="The ASF's &quot;Did You Know?&quot; series showcases interesting ways that Apache projects are used. Can you share any high-profile examples or statistics on how Apache innovations help others? (if a particular use case is confidential, please state so)." />
+      <item value="最好的开源组织之一" />
+      <item value="最好的开源组织直译4" />
+      <item value="contribute" />
+      <item value="Which Apache projects do you use" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="100" />
-        <entry key="ENGLISH" value="200" />
+        <entry key="CHINESE" value="101" />
+        <entry key="ENGLISH" value="202" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="3" />
       </map>
