@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="java dev tech review" />
+      <item value="repositories" />
       <item value="i pick you" />
       <item value="the pink man" />
       <item value="Issue" />
@@ -10,8 +12,6 @@
       <item value="The Apache Way relies on open communications: your feedback is very important to us. What would you like to share with the ASF and/or Apache community-at large? (if confidential, please mark as such)" />
       <item value="sorry" />
       <item value="The ASF's &quot;Did You Know?&quot; series showcases interesting ways that Apache projects are used. Can you share any high-profile examples or statistics on how Apache innovations help others? (if a particular use case is confidential, please state so)." />
-      <item value="最好的开源组织之一" />
-      <item value="最好的开源组织直译4" />
     </histories>
     <option name="languageScores">
       <map>
