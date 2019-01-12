@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="always you" />
+      <item value="better with you" />
       <item value="Allocate" />
       <item value="java dev tech review" />
       <item value="repositories" />
@@ -10,8 +12,6 @@
       <item value="Issue" />
       <item value="promotions" />
       <item value="source" />
-      <item value="The Apache Way relies on open communications: your feedback is very important to us. What would you like to share with the ASF and/or Apache community-at large? (if confidential, please mark as such)" />
-      <item value="sorry" />
     </histories>
     <option name="languageScores">
       <map>
