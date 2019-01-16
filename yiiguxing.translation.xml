@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="inventory" />
       <item value="轮询" />
       <item value="Req Invoice Result Job" />
       <item value="neck" />
@@ -11,7 +12,6 @@
       <item value="bottlenecks" />
       <item value="always you" />
       <item value="better with you" />
-      <item value="Allocate" />
     </histories>
     <option name="languageScores">
       <map>
