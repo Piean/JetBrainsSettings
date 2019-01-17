@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="时间戳" />
       <item value="开始" />
       <item value="结束" />
       <item value="每天去服务商查询开票状态" />
@@ -11,12 +12,11 @@
       <item value="sync" />
       <item value="同步" />
       <item value="External" />
-      <item value="inventory" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="104" />
-        <entry key="ENGLISH" value="213" />
+        <entry key="ENGLISH" value="214" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="3" />
       </map>
