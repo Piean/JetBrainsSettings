@@ -2,21 +2,21 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="建议" />
+      <item value="建" />
+      <item value="建议更新" />
       <item value="PART AGREE" />
       <item value="IS_PART_AGREE" />
       <item value="审核" />
       <item value="手动审核商品" />
-      <item value="建议更新" />
       <item value="Gray" />
       <item value="bluetooth" />
       <item value="时间戳" />
-      <item value="开始" />
-      <item value="结束" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="106" />
-        <entry key="ENGLISH" value="218" />
+        <entry key="ENGLISH" value="219" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="3" />
       </map>
