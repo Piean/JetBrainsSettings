@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="process" />
+      <item value="星期天" />
       <item value="发票" />
       <item value="数量" />
       <item value="目录" />
@@ -10,13 +12,11 @@
       <item value="建议更新" />
       <item value="PART AGREE" />
       <item value="IS_PART_AGREE" />
-      <item value="审核" />
-      <item value="手动审核商品" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="106" />
-        <entry key="ENGLISH" value="222" />
+        <entry key="CHINESE" value="107" />
+        <entry key="ENGLISH" value="224" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="3" />
       </map>
