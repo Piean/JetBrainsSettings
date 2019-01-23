@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="订阅邮件组" />
       <item value="separate" />
       <item value="principal" />
       <item value="Principal" />
@@ -11,12 +12,11 @@
       <item value="赠送金" />
       <item value="本金" />
       <item value="本金 赠送金" />
-      <item value="Members pay a separate principal gift" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="114" />
-        <entry key="ENGLISH" value="233" />
+        <entry key="ENGLISH" value="234" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="3" />
       </map>
