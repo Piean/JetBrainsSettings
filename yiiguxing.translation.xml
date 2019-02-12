@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="This extension provides only syntax highlighting for PL/SQL files." />
       <item value="There are plenty of existing JSON prettifier/beautifier extensions but for some reason, Escape/Unescape JSON features are not included. I made yet another JSON tools because I use the escape/unescape feature a lot." />
       <item value="minify" />
       <item value="pretty" />
@@ -11,7 +12,6 @@
       <item value="cheap" />
       <item value="talk is cheap" />
       <item value="trial" />
-      <item value="space" />
     </histories>
     <option name="languageScores">
       <map>
