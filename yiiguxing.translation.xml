@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="optimize" />
+      <item value="优化" />
       <item value="activate" />
       <item value="激活" />
       <item value="active" />
@@ -10,13 +12,11 @@
       <item value="发送消息失败" />
       <item value="mod" />
       <item value="Divisor" />
-      <item value="mod Divisor" />
-      <item value="Salt" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="125" />
-        <entry key="ENGLISH" value="251" />
+        <entry key="ENGLISH" value="252" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="4" />
       </map>
