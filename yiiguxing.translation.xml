@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="发送消息失败" />
       <item value="mod" />
       <item value="Divisor" />
       <item value="mod Divisor" />
@@ -11,12 +12,11 @@
       <item value="wheel" />
       <item value="whel" />
       <item value="Received invalid filler" />
-      <item value="This extension provides only syntax highlighting for PL/SQL files." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="123" />
-        <entry key="ENGLISH" value="246" />
+        <entry key="ENGLISH" value="247" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="4" />
       </map>
