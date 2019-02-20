@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Exception" />
       <item value="flame" />
       <item value="optimize" />
       <item value="问题" />
@@ -11,12 +12,11 @@
       <item value="active" />
       <item value="ACTIVE" />
       <item value="发送者" />
-      <item value="发送消息失败" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="125" />
-        <entry key="ENGLISH" value="253" />
+        <entry key="CHINESE" value="126" />
+        <entry key="ENGLISH" value="254" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="4" />
       </map>
