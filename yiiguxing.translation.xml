@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="local" />
+      <item value="locale" />
       <item value="reserve" />
       <item value="内部" />
       <item value="Executor" />
@@ -10,14 +12,12 @@
       <item value="唯一" />
       <item value="Uinon" />
       <item value="Exception" />
-      <item value="flame" />
-      <item value="optimize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="131" />
-        <entry key="ENGLISH" value="260" />
-        <entry key="FRENCH" value="1" />
+        <entry key="CHINESE" value="135" />
+        <entry key="ENGLISH" value="262" />
+        <entry key="FRENCH" value="3" />
         <entry key="PORTUGUESE" value="5" />
       </map>
     </option>
