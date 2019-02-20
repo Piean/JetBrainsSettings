@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="flame" />
       <item value="optimize" />
       <item value="问题" />
       <item value="优化" />
@@ -11,7 +12,6 @@
       <item value="ACTIVE" />
       <item value="发送者" />
       <item value="发送消息失败" />
-      <item value="mod" />
     </histories>
     <option name="languageScores">
       <map>
