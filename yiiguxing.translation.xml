@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Reports synchronization on a local variable or parameter. It is very difficult to guarantee correctness when such synchronization is used. It may be possible to improve code like this by controlling access through e.g. a synchronized wrapper class, or by synchronizing on a field." />
       <item value="foreach" />
       <item value="local" />
       <item value="locale" />
@@ -11,7 +12,6 @@
       <item value="Callable" />
       <item value="execute" />
       <item value="唯一" />
-      <item value="Uinon" />
     </histories>
     <option name="languageScores">
       <map>
