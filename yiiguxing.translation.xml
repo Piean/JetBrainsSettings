@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Spliterator" />
       <item value="Flush" />
       <item value="Decorator" />
       <item value="handle" />
@@ -11,12 +12,11 @@
       <item value="foreach" />
       <item value="local" />
       <item value="locale" />
-      <item value="reserve" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="138" />
-        <entry key="ENGLISH" value="266" />
+        <entry key="CHINESE" value="140" />
+        <entry key="ENGLISH" value="268" />
         <entry key="FRENCH" value="3" />
         <entry key="PORTUGUESE" value="5" />
       </map>
