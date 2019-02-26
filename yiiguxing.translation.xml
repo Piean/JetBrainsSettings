@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="发生异常" />
+      <item value="Exception" />
+      <item value="异常" />
       <item value="尾" />
       <item value="Flush" />
       <item value="process" />
@@ -9,14 +12,11 @@
       <item value="池子" />
       <item value="Poll" />
       <item value="finished" />
-      <item value="完成" />
-      <item value="let" />
-      <item value="放进" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="146" />
-        <entry key="ENGLISH" value="282" />
+        <entry key="CHINESE" value="147" />
+        <entry key="ENGLISH" value="284" />
         <entry key="FRENCH" value="3" />
         <entry key="PORTUGUESE" value="5" />
       </map>
