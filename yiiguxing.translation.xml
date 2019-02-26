@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="尾" />
       <item value="Flush" />
       <item value="process" />
       <item value="Pool" />
@@ -11,12 +12,11 @@
       <item value="完成" />
       <item value="let" />
       <item value="放进" />
-      <item value="丢进去" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="146" />
-        <entry key="ENGLISH" value="281" />
+        <entry key="ENGLISH" value="282" />
         <entry key="FRENCH" value="3" />
         <entry key="PORTUGUESE" value="5" />
       </map>
