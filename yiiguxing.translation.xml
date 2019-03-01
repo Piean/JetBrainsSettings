@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="VAT" />
+      <item value="PROVIDE" />
       <item value="任务被终止" />
       <item value="Can not get an invoker from this config" />
       <item value="处理" />
@@ -10,8 +12,6 @@
       <item value="打包文件失败" />
       <item value="failed" />
       <item value="fail" />
-      <item value="failure" />
-      <item value="失败" />
     </histories>
     <option name="languageScores">
       <map>
