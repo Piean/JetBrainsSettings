@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Selective" />
+      <item value="params" />
       <item value="Dish" />
       <item value="god" />
       <item value="VAT" />
@@ -10,13 +12,11 @@
       <item value="Can not get an invoker from this config" />
       <item value="处理" />
       <item value="lead a double life" />
-      <item value="package cost time" />
-      <item value="打包文件失败" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="157" />
-        <entry key="ENGLISH" value="301" />
+        <entry key="CHINESE" value="159" />
+        <entry key="ENGLISH" value="303" />
         <entry key="FRENCH" value="3" />
         <entry key="PORTUGUESE" value="5" />
       </map>
