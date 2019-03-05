@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="convert" />
       <item value="Selective" />
       <item value="params" />
       <item value="Dish" />
@@ -11,12 +12,11 @@
       <item value="任务被终止" />
       <item value="Can not get an invoker from this config" />
       <item value="处理" />
-      <item value="lead a double life" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="159" />
-        <entry key="ENGLISH" value="303" />
+        <entry key="CHINESE" value="160" />
+        <entry key="ENGLISH" value="304" />
         <entry key="FRENCH" value="3" />
         <entry key="PORTUGUESE" value="5" />
       </map>
