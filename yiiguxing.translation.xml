@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="blood" />
       <item value="terminate" />
       <item value="fulfill" />
       <item value="fulfilled" />
@@ -11,7 +12,6 @@
       <item value="toss" />
       <item value="丢进" />
       <item value="pick" />
-      <item value="添加" />
     </histories>
     <option name="languageScores">
       <map>
