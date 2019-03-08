@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="optimization" />
       <item value="一个可以完成并结束的阻塞队列" />
       <item value="Nullable Problems" />
       <item value="Constant Conditions" />
@@ -11,7 +12,6 @@
       <item value="MAIL" />
       <item value="唯一" />
       <item value="保存" />
-      <item value="blood" />
     </histories>
     <option name="languageScores">
       <map>
