@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="MAIL" />
       <item value="唯一" />
       <item value="保存" />
       <item value="blood" />
@@ -11,12 +12,11 @@
       <item value="销毁" />
       <item value="Flame" />
       <item value="offer" />
-      <item value="toss" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="165" />
-        <entry key="ENGLISH" value="313" />
+        <entry key="CHINESE" value="166" />
+        <entry key="ENGLISH" value="314" />
         <entry key="FRENCH" value="3" />
         <entry key="PORTUGUESE" value="5" />
       </map>
