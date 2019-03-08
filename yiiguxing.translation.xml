@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Non-annotated parameter 'e' in method 'add' from 'AbstractQueue' should not override non-null parameter from 'BlockingQueue' less... (Ctrl+F1)  Inspection info: Reports problems related to @Nullable and @NotNull annotations usage configured in Constant conditions &amp; exceptions inspection." />
       <item value="完成" />
       <item value="MAIL" />
       <item value="唯一" />
@@ -11,7 +12,6 @@
       <item value="fulfill" />
       <item value="fulfilled" />
       <item value="销毁" />
-      <item value="Flame" />
     </histories>
     <option name="languageScores">
       <map>
