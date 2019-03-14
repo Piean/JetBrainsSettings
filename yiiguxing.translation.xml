@@ -2,21 +2,21 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Column" />
+      <item value="Reserve Mode" />
+      <item value="Mode" />
+      <item value="模式" />
+      <item value="model" />
+      <item value="reserve" />
+      <item value="预定" />
+      <item value="预约" />
+      <item value="appointment" />
       <item value="承让" />
-      <item value="承认" />
-      <item value="我知你深浅，你知我长短" />
-      <item value="你不想要我吗" />
-      <item value="Aren't young girls hungry" />
-      <item value="难道年轻女孩不饥渴" />
-      <item value="this eat is not that eat" />
-      <item value="enough" />
-      <item value="月" />
-      <item value="Contant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="170" />
-        <entry key="ENGLISH" value="325" />
+        <entry key="CHINESE" value="175" />
+        <entry key="ENGLISH" value="330" />
         <entry key="FRENCH" value="3" />
         <entry key="PORTUGUESE" value="5" />
       </map>
