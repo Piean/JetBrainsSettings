@@ -2,21 +2,21 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="receipt" />
+      <item value="收款" />
+      <item value="payment" />
+      <item value="prompt" />
+      <item value="collection" />
+      <item value="收取价格" />
+      <item value="payment Way" />
+      <item value="cancel Way" />
       <item value="属性" />
       <item value="定金" />
-      <item value="deposit" />
-      <item value="收取价格" />
-      <item value="二维码" />
-      <item value="方式" />
-      <item value="收款方式" />
-      <item value="charge off" />
-      <item value="chargeoff" />
-      <item value="charge" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="200" />
-        <entry key="ENGLISH" value="363" />
+        <entry key="CHINESE" value="210" />
+        <entry key="ENGLISH" value="374" />
         <entry key="FRENCH" value="3" />
         <entry key="PORTUGUESE" value="5" />
       </map>
