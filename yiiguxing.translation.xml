@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Scene" />
+      <item value="Sence" />
+      <item value="Snece" />
       <item value="desc" />
       <item value="sence" />
       <item value="scene" />
@@ -9,9 +12,6 @@
       <item value="RESERVE" />
       <item value="Exist" />
       <item value="water" />
-      <item value="effective" />
-      <item value="有效" />
-      <item value="源值" />
     </histories>
     <option name="languageScores">
       <map>
