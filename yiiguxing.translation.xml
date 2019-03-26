@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="OPEN" />
       <item value="禁用" />
       <item value="启用" />
       <item value="开启" />
@@ -11,12 +12,11 @@
       <item value="use" />
       <item value="Smartisan" />
       <item value="Scene" />
-      <item value="Sence" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="226" />
-        <entry key="ENGLISH" value="396" />
+        <entry key="CHINESE" value="227" />
+        <entry key="ENGLISH" value="397" />
         <entry key="FRENCH" value="3" />
         <entry key="PORTUGUESE" value="5" />
       </map>
