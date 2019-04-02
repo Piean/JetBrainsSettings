@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="what's wrong" />
       <item value="Servicor" />
       <item value="CLOSED" />
       <item value="关闭" />
@@ -11,7 +12,6 @@
       <item value="extension" />
       <item value="扩展" />
       <item value="扩展属性" />
-      <item value="Expire" />
     </histories>
     <option name="languageScores">
       <map>
