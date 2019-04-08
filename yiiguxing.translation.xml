@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Stream ended unexpectedly" />
       <item value="what's wrong" />
       <item value="Servicor" />
       <item value="CLOSED" />
@@ -11,7 +12,6 @@
       <item value="到期" />
       <item value="extension" />
       <item value="扩展" />
-      <item value="扩展属性" />
     </histories>
     <option name="languageScores">
       <map>
