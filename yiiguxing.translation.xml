@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="stack overflow" />
+      <item value="stackoverflow" />
       <item value="CountDownLatch" />
       <item value="Stream ended unexpectedly" />
       <item value="what's wrong" />
@@ -10,8 +12,6 @@
       <item value="关闭" />
       <item value="Participate" />
       <item value="expire" />
-      <item value="到期" />
-      <item value="extension" />
     </histories>
     <option name="languageScores">
       <map>
