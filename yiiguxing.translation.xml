@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Hierarchical" />
       <item value="stack overflow" />
       <item value="stackoverflow" />
       <item value="CountDownLatch" />
@@ -11,7 +12,6 @@
       <item value="CLOSED" />
       <item value="关闭" />
       <item value="Participate" />
-      <item value="expire" />
     </histories>
     <option name="languageScores">
       <map>
