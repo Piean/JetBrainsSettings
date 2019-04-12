@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="SNAPSHOT" />
       <item value="开票" />
       <item value="auth" />
       <item value="Notify" />
@@ -11,12 +12,11 @@
       <item value="Airmail" />
       <item value="Hierarchical" />
       <item value="stack overflow" />
-      <item value="stackoverflow" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="244" />
-        <entry key="ENGLISH" value="416" />
+        <entry key="CHINESE" value="245" />
+        <entry key="ENGLISH" value="417" />
         <entry key="FRENCH" value="3" />
         <entry key="PORTUGUESE" value="6" />
       </map>
