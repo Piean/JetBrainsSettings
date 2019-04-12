@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="开票" />
       <item value="auth" />
       <item value="Notify" />
       <item value="通知" />
@@ -11,12 +12,11 @@
       <item value="Hierarchical" />
       <item value="stack overflow" />
       <item value="stackoverflow" />
-      <item value="CountDownLatch" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="244" />
-        <entry key="ENGLISH" value="415" />
+        <entry key="ENGLISH" value="416" />
         <entry key="FRENCH" value="3" />
         <entry key="PORTUGUESE" value="6" />
       </map>
