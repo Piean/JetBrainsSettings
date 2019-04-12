@@ -2,21 +2,21 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="auth" />
+      <item value="Notify" />
+      <item value="通知" />
+      <item value="notifies" />
+      <item value="航信通知授权结果" />
+      <item value="Airmail" />
       <item value="Hierarchical" />
       <item value="stack overflow" />
       <item value="stackoverflow" />
       <item value="CountDownLatch" />
-      <item value="Stream ended unexpectedly" />
-      <item value="what's wrong" />
-      <item value="Servicor" />
-      <item value="CLOSED" />
-      <item value="关闭" />
-      <item value="Participate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="240" />
-        <entry key="ENGLISH" value="409" />
+        <entry key="CHINESE" value="244" />
+        <entry key="ENGLISH" value="415" />
         <entry key="FRENCH" value="3" />
         <entry key="PORTUGUESE" value="6" />
       </map>
