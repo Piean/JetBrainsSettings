@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="county" />
+      <item value="country" />
       <item value="subtract" />
       <item value="divide" />
       <item value="SNAPSHOT" />
@@ -10,8 +12,6 @@
       <item value="Notify" />
       <item value="通知" />
       <item value="notifies" />
-      <item value="航信通知授权结果" />
-      <item value="Airmail" />
     </histories>
     <option name="languageScores">
       <map>
