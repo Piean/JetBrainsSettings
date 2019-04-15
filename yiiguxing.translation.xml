@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="rows examined" />
+      <item value="rows_examined" />
       <item value="county" />
       <item value="country" />
       <item value="subtract" />
@@ -10,8 +12,6 @@
       <item value="开票" />
       <item value="auth" />
       <item value="Notify" />
-      <item value="通知" />
-      <item value="notifies" />
     </histories>
     <option name="languageScores">
       <map>
