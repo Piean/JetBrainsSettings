@@ -2,21 +2,21 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="unexpected" />
+      <item value="break" />
+      <item value="断开" />
+      <item value="fracture" />
+      <item value="断裂" />
+      <item value="channel" />
+      <item value="chanel" />
       <item value="gray" />
       <item value="灰度" />
       <item value="当前" />
-      <item value="newest" />
-      <item value="最新" />
-      <item value="selector" />
-      <item value="finder" />
-      <item value="查找器" />
-      <item value="designate" />
-      <item value="designat" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="252" />
-        <entry key="ENGLISH" value="427" />
+        <entry key="CHINESE" value="256" />
+        <entry key="ENGLISH" value="431" />
         <entry key="FRENCH" value="3" />
         <entry key="PORTUGUESE" value="6" />
       </map>
