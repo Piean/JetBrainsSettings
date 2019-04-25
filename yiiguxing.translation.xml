@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="judge" />
+      <item value="判断" />
       <item value="is Print Pantry" />
       <item value="is PANTRY" />
       <item value="PANTRY" />
@@ -10,13 +12,11 @@
       <item value="dishes" />
       <item value="配菜" />
       <item value="side" />
-      <item value="厨房配菜联" />
-      <item value="receipt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="267" />
-        <entry key="ENGLISH" value="443" />
+        <entry key="CHINESE" value="268" />
+        <entry key="ENGLISH" value="444" />
         <entry key="FRENCH" value="3" />
         <entry key="PORTUGUESE" value="6" />
       </map>
