@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Reorder" />
       <item value="99900001" />
       <item value="Gray" />
       <item value="temporary" />
@@ -11,7 +12,6 @@
       <item value="is Print Pantry" />
       <item value="is PANTRY" />
       <item value="PANTRY" />
-      <item value="Produce" />
     </histories>
     <option name="languageScores">
       <map>
