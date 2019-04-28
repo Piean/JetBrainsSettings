@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="99900001" />
       <item value="Gray" />
       <item value="temporary" />
       <item value="business log" />
@@ -11,12 +12,11 @@
       <item value="is PANTRY" />
       <item value="PANTRY" />
       <item value="Produce" />
-      <item value="dish" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="271" />
-        <entry key="ENGLISH" value="447" />
+        <entry key="CHINESE" value="272" />
+        <entry key="ENGLISH" value="448" />
         <entry key="FRENCH" value="3" />
         <entry key="PORTUGUESE" value="6" />
       </map>
