@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="微店" />
       <item value="Reorder" />
       <item value="99900001" />
       <item value="Gray" />
@@ -11,12 +12,11 @@
       <item value="判断" />
       <item value="is Print Pantry" />
       <item value="is PANTRY" />
-      <item value="PANTRY" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="272" />
-        <entry key="ENGLISH" value="448" />
+        <entry key="ENGLISH" value="449" />
         <entry key="FRENCH" value="3" />
         <entry key="PORTUGUESE" value="6" />
       </map>
