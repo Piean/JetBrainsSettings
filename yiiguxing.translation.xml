@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="自动完成" />
       <item value="基本" />
       <item value="基础" />
       <item value="team" />
@@ -11,12 +12,11 @@
       <item value="Appliable" />
       <item value="basis" />
       <item value="Country" />
-      <item value="optional" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="285" />
-        <entry key="ENGLISH" value="470" />
+        <entry key="ENGLISH" value="471" />
         <entry key="FRENCH" value="3" />
         <entry key="PORTUGUESE" value="6" />
       </map>
