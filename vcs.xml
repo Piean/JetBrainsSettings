@@ -202,6 +202,10 @@
           <option name="url" value="https://github.com/apache/rocketmq.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.2dfire.net/common-server/shop-soa.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Project" />
