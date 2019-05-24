@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="revert" />
       <item value="供应链" />
       <item value="/** * Indicates that dirty reads and non-repeatable reads are prevented; * phantom reads can occur. * &lt;p&gt;This level prohibits a transaction from reading a row with uncommitted changes * in it, and it also prohibits the situation where one transaction reads a row, * a second transaction alters the row, and the first transaction re-reads the row, * getting different values the second time (a &quot;non-repeatable read&quot;)." />
       <item value="complex" />
@@ -11,7 +12,6 @@
       <item value="subset" />
       <item value="集合" />
       <item value="商户" />
-      <item value="league" />
     </histories>
     <option name="languageScores">
       <map>
