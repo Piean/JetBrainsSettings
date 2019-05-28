@@ -2,21 +2,21 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="current Time Sec" />
+      <item value="secs" />
+      <item value="秒" />
+      <item value="sec" />
+      <item value="毫秒" />
       <item value="version Are Consistent" />
       <item value="verion Are Consistent" />
       <item value="Consistent" />
       <item value="consistent" />
       <item value="是否一致" />
-      <item value="main" />
-      <item value="主" />
-      <item value="主的" />
-      <item value="vice" />
-      <item value="副" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="328" />
-        <entry key="ENGLISH" value="529" />
+        <entry key="CHINESE" value="330" />
+        <entry key="ENGLISH" value="532" />
         <entry key="FRENCH" value="3" />
         <entry key="PORTUGUESE" value="6" />
       </map>
