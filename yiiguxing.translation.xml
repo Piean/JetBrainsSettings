@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="convert" />
+      <item value="limit" />
       <item value="incr" />
       <item value="增加" />
       <item value="current Time Sec" />
@@ -10,13 +12,11 @@
       <item value="sec" />
       <item value="毫秒" />
       <item value="version Are Consistent" />
-      <item value="verion Are Consistent" />
-      <item value="Consistent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="330" />
-        <entry key="ENGLISH" value="533" />
+        <entry key="CHINESE" value="333" />
+        <entry key="ENGLISH" value="536" />
         <entry key="FRENCH" value="3" />
         <entry key="PORTUGUESE" value="6" />
       </map>
