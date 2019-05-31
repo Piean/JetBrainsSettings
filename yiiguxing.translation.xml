@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="prompt" />
+      <item value="提示" />
       <item value="non-array variables" />
       <item value="Unfortunately" />
       <item value="attribute must be constant" />
@@ -10,13 +12,11 @@
       <item value="attribute" />
       <item value="receive" />
       <item value="接收" />
-      <item value="need Record" />
-      <item value="record" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="346" />
-        <entry key="ENGLISH" value="552" />
+        <entry key="CHINESE" value="347" />
+        <entry key="ENGLISH" value="553" />
         <entry key="FRENCH" value="3" />
         <entry key="PORTUGUESE" value="6" />
       </map>
