@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="remain" />
       <item value="prompt" />
       <item value="提示" />
       <item value="non-array variables" />
@@ -11,7 +12,6 @@
       <item value="attribute must" />
       <item value="attribute" />
       <item value="receive" />
-      <item value="接收" />
     </histories>
     <option name="languageScores">
       <map>
