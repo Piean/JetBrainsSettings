@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="我喂你" />
       <item value="SMALL" />
       <item value="blocked" />
       <item value="remain" />
@@ -11,12 +12,11 @@
       <item value="Unfortunately" />
       <item value="attribute must be constant" />
       <item value="attribute must be" />
-      <item value="attribute must" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="348" />
-        <entry key="ENGLISH" value="554" />
+        <entry key="ENGLISH" value="555" />
         <entry key="FRENCH" value="3" />
         <entry key="PORTUGUESE" value="6" />
       </map>
